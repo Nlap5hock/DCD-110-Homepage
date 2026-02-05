@@ -1,0 +1,13 @@
+.myclass {
+    color: rgb(255, 255, 255);
+    font-size: 32.5px;
+    background-color: rgb(26, 165, 158);
+
+};
+
+.other {
+    font-size: 30.5px;
+    color:rgb(68, 34, 99) ;
+    background-color: rgb(197, 198, 199);
+    border:2px solid rgb(107, 8, 153);
+}
