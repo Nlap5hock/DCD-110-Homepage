@@ -42,3 +42,22 @@
 body {
   background-image: linear-gradient(to bottom right, rgb(72, 215, 196), rgb(225, 194, 82));
 }
+
+a:link{
+  color: #119cab;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #d3feff;
+}
+
+a:visited{
+  color: #035e60;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
